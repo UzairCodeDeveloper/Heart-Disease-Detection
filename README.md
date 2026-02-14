@@ -12,10 +12,10 @@ likelihood of heart disease based on medical attributes.
 
 This project focuses on:
 
--   Medical Data Analysis\
--   Data Preprocessing\
--   Feature Engineering\
--   Model Training\
+-   Medical Data Analysis
+-   Data Preprocessing
+-   Feature Engineering
+-   Model Training
 -   Prediction & Evaluation
 
 The notebook is designed to build practical understanding of ML
@@ -27,24 +27,24 @@ applications in healthcare.
 
 ### ✅ Data Processing
 
--   Dataset loading\
--   Handling missing values\
--   Data cleaning & transformation\
+-   Dataset loading
+-   Handling missing values
+-   Data cleaning & transformation
 -   Feature selection
 
 ------------------------------------------------------------------------
 
 ### ✅ Exploratory Data Analysis (EDA)
 
--   Understanding feature distributions\
--   Identifying correlations\
+-   Understanding feature distributions
+-   Identifying correlations
 -   Data visualization
 
 ------------------------------------------------------------------------
 
 ### ✅ Model Development
 
--   Training machine learning models\
+-   Training machine learning models
 -   Prediction logic\
 -   Model evaluation
 
@@ -52,7 +52,7 @@ applications in healthcare.
 
 ### ✅ Prediction System
 
--   Heart disease likelihood prediction\
+-   Heart disease likelihood prediction
 -   Performance analysis
 
 ------------------------------------------------------------------------
@@ -79,7 +79,7 @@ pip install numpy pandas scikit-learn matplotlib
 
 1.  Clone the repository:
 
-git clone https://github.com/your-username/your-repo-name.git
+git clone URL
 
 2.  Open the notebook:
 
@@ -112,4 +112,5 @@ This notebook helps understand:
 ## 👨‍💻 Author
 
 **Muhammad Uzair Zafar**\
-Computer Science \| Machine Learning & AI Enthusiast
+Computer Science \| AI ENGINEER
+
